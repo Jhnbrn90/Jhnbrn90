@@ -12,4 +12,9 @@ Here are some facts about me:
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Contributing to an open source PHP package](https://johnbraun.blog/posts/contributing-to-a-PHP-package)
+- [How to use fake dates in Cypress end-to-end testing](https://johnbraun.blog/posts/fake-dates-in-end-to-end-browser-tests)
+- [Refactoring to Livewire polling](https://johnbraun.blog/posts/refactoring-to-livewire-polling)
+- [OAuth2 authentication across Laravel projects](https://johnbraun.blog/posts/oauth2-authentication-across-laravel-projects)
+- [Searching a database by e-mail](https://johnbraun.blog/posts/search-database-by-email)
 <!-- BLOG-POST-LIST:END -->
