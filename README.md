@@ -9,3 +9,7 @@ Here are some facts about me:
 - 📦 I happily welcome contributions to [LaravelPackage.com](https://github.com/Jhnbrn90/LaravelPackage.com)
 - 🖊️ I'm blogging at [JohnBraun.blog](https://johnbraun.blog)
 - 👯 I’m looking forward to collaborate on more open source projects
+
+## 📩 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
