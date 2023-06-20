@@ -6,7 +6,6 @@ Here are some facts about me:
 - 💻 I'm working on projects combining DevOps with software development
 - 🔭 I feel most confident working with the TALL stack ([TailwindCSS](https://tailwindcss.com/), [Alpine](https://github.com/alpinejs/alpine/), [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/)) and [Vue](https://vuejs.org/) (2.0)
 - 🌱 I’m currently learning more about [Kubernetes](https://kubernetes.io/) and getting more familiar with the [Symfony](https://symfony.com/) framework
-- 📦 I happily welcome contributions to [LaravelPackage.com](https://github.com/Jhnbrn90/LaravelPackage.com)
 - 🖊️ I'm blogging at [JohnBraun.blog](https://johnbraun.blog)
 - 👯 I’m looking forward to collaborate on more open source projects
 
